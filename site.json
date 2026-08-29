@@ -15,10 +15,10 @@
     "independent_user_task": "Complete one shipping-exception review and save a shipping exception diary entry recording the event, constraint, affected step, boundary, and next owner.",
     "link_removed_value": "Without the brand, logo, CTA, or project link, the resource still teaches the method, exception path, worked example, and fields needed for a shipping exception diary entry recording the event, constraint, affected step, boundary, and next owner.",
     "compared_asset_ids": [
+      "litbuy-github-pages-change-record-01",
       "litbuy-github-pages-order-note-schema-02",
       "litbuy-github-pages-category-linter-01",
       "litbuy-github-pages-dead-link-note-checker-01",
-      "litbuy-github-pages-comparison-criteria-sheet-20260829",
       "litbuy-github-pages-return-evidence-packet-20260829"
     ],
     "unique_modules": [
@@ -29,7 +29,7 @@
       "Owner and next check"
     ],
     "reused_paragraphs": [],
-    "duplicate_check_result": "Passed after comparing the task, output, field set, examples, and exceptions against litbuy-github-pages-order-note-schema-02, litbuy-github-pages-category-linter-01, litbuy-github-pages-dead-link-note-checker-01, litbuy-github-pages-comparison-criteria-sheet-20260829, litbuy-github-pages-return-evidence-packet-20260829.",
+    "duplicate_check_result": "Passed after comparing the task, output, field set, examples, and exceptions against litbuy-github-pages-change-record-01, litbuy-github-pages-order-note-schema-02, litbuy-github-pages-category-linter-01, litbuy-github-pages-dead-link-note-checker-01, litbuy-github-pages-return-evidence-packet-20260829.",
     "depth_audit": {
       "home": {
         "visible_word_count": 702,
