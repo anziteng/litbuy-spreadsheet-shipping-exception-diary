@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "asset_id": "litbuy-github-pages-shipping-exception-diary-20260829",
+  "platform_id": "github-pages",
+  "brand": "LitBuy",
+  "target_url": "https://litbss.com/",
+  "public_base_url": "https://anziteng.github.io/litbuy-spreadsheet-shipping-exception-diary/",
+  "title": "LitBuy Spreadsheet Shipping Exception Diary",
+  "content_angle": "A four-page scope each visible shipping exception to an affected reference, evidence boundary, and next owner. Its independent output remains useful without the project link and it makes no claim about current inventory, price, quality, eligibility, policy, or delivery outcomes.",
+  "difference_notes": "This shipping exception diary produces a distinct saved output, evidence field set, worked example, exception path, and decision vocabulary from earlier LitBuy assets.",
+  "generator": "tools/run-auto-tasks-2026-08-26.mjs",
+  "content_quality": {
+    "depth_profile": "task_complete_v2",
+    "real_data_status": "unavailable",
+    "independent_user_task": "Complete one shipping-exception review and save a shipping exception diary entry recording the event, constraint, affected step, boundary, and next owner.",
+    "link_removed_value": "Without the brand, logo, CTA, or project link, the resource still teaches the method, exception path, worked example, and fields needed for a shipping exception diary entry recording the event, constraint, affected step, boundary, and next owner.",
+    "compared_asset_ids": [
+      "litbuy-github-pages-order-note-schema-02",
+      "litbuy-github-pages-category-linter-01",
+      "litbuy-github-pages-dead-link-note-checker-01",
+      "litbuy-github-pages-comparison-criteria-sheet-20260829",
+      "litbuy-github-pages-return-evidence-packet-20260829"
+    ],
+    "unique_modules": [
+      "Write an exception diary entry",
+      "Observable event",
+      "Affected reference",
+      "Constraint boundary",
+      "Owner and next check"
+    ],
+    "reused_paragraphs": [],
+    "duplicate_check_result": "Passed after comparing the task, output, field set, examples, and exceptions against litbuy-github-pages-order-note-schema-02, litbuy-github-pages-category-linter-01, litbuy-github-pages-dead-link-note-checker-01, litbuy-github-pages-comparison-criteria-sheet-20260829, litbuy-github-pages-return-evidence-packet-20260829.",
+    "depth_audit": {
+      "home": {
+        "visible_word_count": 702,
+        "h1_count": 1,
+        "h2_count": 7,
+        "section_count": 8,
+        "substantive_block_count": 27,
+        "long_block_count": 11,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "faq": {
+        "visible_word_count": 445,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 16,
+        "long_block_count": 7,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "usage-guide": {
+        "visible_word_count": 473,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 18,
+        "long_block_count": 12,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "alternatives": {
+        "visible_word_count": 494,
+        "h1_count": 1,
+        "h2_count": 9,
+        "section_count": 6,
+        "substantive_block_count": 21,
+        "long_block_count": 3,
+        "task_signal_count": 4,
+        "duplicate_block_count": 3,
+        "duplicate_block_ratio": 0.14285714285714285
+      }
+    }
+  }
+}
